@@ -43,7 +43,7 @@ QuantumTech says it will offer cloud access to Quantum Nexus beginning next quar
   },
   {
     id: '3',
-    title: 'Breakthrough in Alzheimer's Research Offers New Hope',
+    title: 'Breakthrough in Alzheimers Research Offers New Hope',
     summary: 'Scientists identify key mechanism that could lead to effective treatments.',
     content: `Researchers at the National Institute of Neurological Disorders have announced a significant breakthrough in understanding the progression of Alzheimer's disease, potentially opening new avenues for treatment.
 
